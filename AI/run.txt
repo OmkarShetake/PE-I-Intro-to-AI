@@ -1,0 +1,2 @@
+python -m pip show streamlit
+python -m streamlit run app/smart_home_app.py
